@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\Visual Studio 2019\projec\crud4Capas\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.deps.json
+C:\Users\hp\Documents\Visual Studio 2019\projec\crud4Capas\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\hp\Documents\Visual Studio 2019\projec\crud4Capas\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.pdb
+C:\Users\hp\Documents\Visual Studio 2019\projec\crud4Capas\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2019\projec\crud4Capas\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Visual Studio 2019\projec\crud4Capas\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\projec\crud4Capas\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.AssemblyInfo.cs
+C:\Users\hp\Documents\Visual Studio 2019\projec\crud4Capas\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\projec\crud4Capas\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\hp\Documents\Visual Studio 2019\projec\crud4Capas\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.pdb
